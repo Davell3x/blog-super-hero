@@ -1,0 +1,11 @@
+shortcut abbreviazioni da tastiera 
+
+CTRL + C = copia
+CTRL + V = incolla 
+CTRL + X = taglia  
+CTRL + Z = annulla ultima operazione
+CTRL + Y = ripristina operazione precedente
+CTRL + S = salva
+CTRL + A = seleziona tutto
+CTRL + F = trova qualcosa nel documento
+ALT + freccette = sposta riga di codice
